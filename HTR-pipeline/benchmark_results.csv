@@ -1,0 +1,5 @@
+Method,Feature_Count,Avg_Time_ms,SVM_Accuracy,RF_Accuracy
+Geometric,3,0.0054,0.4858,0.6057
+Hu,7,0.0044,0.7484,0.8723
+HOG,324,0.0721,1.0,0.9979
+Combined,331,0.0798,1.0,0.9977
